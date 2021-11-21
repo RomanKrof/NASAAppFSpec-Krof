@@ -15,7 +15,7 @@ krof.roman.2018@skola.ssps.cz <br/>
 * Scénáře
   * Všechny reálné způsoby použití
     * Uživatel se může kouknout na tělesa, která v minulosti prolétla okolo Země
-    * Uživatel se můžou podívat na podrobnější detaily těchto těles
+    * Uživatel se může podívat na podrobnější detaily těchto těles
   * Typy uživatelských rolí, „personas“
     * Kdokoli, nikdo se nikam nepřihlašuje, všichni mají stejné možnosti využití
   * Vymezení rozsahu – co v programu **NEbude**
@@ -32,7 +32,7 @@ krof.roman.2018@skola.ssps.cz <br/>
     * V horní části obrazovky bude vypsán čas poslední aktualizace a tlačítko "aktualizace", které seznam aktualizuje
     
     ![obrázek 1](https://github.com/RomanKrof/NASAAppFunspecs-Krof/blob/main/N%C3%A1vrh%20aplikace%20-%20hlavn%C3%AD%20strana.png)
-    * Ve spodní části tohoto okénka bude tlačítko "podrobnosti" - po kliknutí se zobrazí podokno, které bude obsahovat podrobnější údaje asteroidu (datum přiblížení, rychlost, průměr, vzdálenost od Země)
+    * Ve spodní části okénka asteroidu bude tlačítko "podrobnosti" - po kliknutí se zobrazí podokno, které bude obsahovat podrobnější údaje asteroidu (datum přiblížení, rychlost, průměr, vzdálenost od Země)
     ![obrázek 2](https://github.com/RomanKrof/NASAAppFunspecs-Krof/blob/main/N%C3%A1vrh%20aplikace%20-%20podrobnosti.png)       
   * Dohodnuté principy
-    * Data se budou vyposovat pomocí API od NASA
+    * Data se budou vypisovat pomocí API od NASA
