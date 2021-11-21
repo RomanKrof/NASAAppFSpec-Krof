@@ -32,7 +32,7 @@ krof.roman.2018@skola.ssps.cz <br/>
   * Všechny detaily: obrazovky, okna, tisky, chybové zprávy, logování
     * Program bude obsahovat hlavní okno, na kterém budou okna s lehce odlišnou barvou, ve kterých bude vepsán asteroid a jeho základní informace (datum přiblížení, průměr)
     * V horní části obrazovky bude vypsán čas poslední aktualizace a tlačítko "aktualizace", které seznam aktualizuje
-    ![obrázek 1](https://github.com/RomanKrof/UzitecnySoftwareNavrh/blob/main/N%C3%A1vrh%20hlavn%C3%ADho%20okna.png "Obrázek 1")
+    ![obrázek 1](https://github.com/RomanKrof/NASAAppFunspecs-Krof/blob/main/N%C3%A1vrh%20aplikace%20-%20hlavn%C3%AD%20strana.png)
     * Ve spodní části tohoto okénka bude tlačítko "podrobnosti" - po kliknutí se zobrazí podokno, které bude obsahovat podrobnější údaje asteroidu (datum přiblížení, rychlost, průměr, vzdálenost od Země)
     ![obrázek 2](https://github.com/RomanKrof/UzitecnySoftwareNavrh/blob/main/N%C3%A1vrh%20upravovac%C3%ADho%20a%20p%C5%99id%C3%A1vac%C3%ADho%20okna.png "Obrázek 2")       
   * Dohodnuté principy
