@@ -1,1 +1,1 @@
-# NASAAppFSpec-Krof
+# NASA App - Fuknční specifikace
