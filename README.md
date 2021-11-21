@@ -10,8 +10,6 @@ krof.roman.2018@skola.ssps.cz <br/>
     * Dokument slouží k rychlému představení programu
   * Konvence dokumentu
     * Všechny kritické požadavky budou tučně
-  * Pro koho je dokument určený
-    * Pro širokou veřejnost např. pro lidi, které zajímá vesmír
   * Ostatní dokumenty
     * https://api.nasa.gov/
 * Scénáře
