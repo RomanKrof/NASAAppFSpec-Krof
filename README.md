@@ -1,1 +1,1 @@
-# NASA App - Fuknční specifikace
+# NASA App - Funkční specifikace
